@@ -66,7 +66,7 @@ export default function Home() {
     {
       title: "Cross-Border Collaboration for Forest Conservation",
       content: "Innovation: Implement a collaborative framework that allows countries to share and analyze LiDAR data collectively, fostering international cooperation for forest conservation efforts. Business Idea: Act as a facilitator for cross-border partnerships, offering consulting services and technology solutions to countries interested in jointly addressing global forest health challenges.",
-      image: "DataToModel-2.svg",
+      image: "DataToModel-3.svg",
       width: 600,
       height: 600,
     },
